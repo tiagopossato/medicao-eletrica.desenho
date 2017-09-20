@@ -1,0 +1,7 @@
+*.workspace
+*.pdsbak
+*.rte
+*.DO
+*.EDF
+*.log
+*.sts
